@@ -1,0 +1,13 @@
+{
+    "name": "hreynaldoh/router-os_api_php",
+    "description": "Interfaz Programable de Aplicaci\u0000n (API) que permite a los usuarios crear soluciones de software personalizadas para comunicarse con RouterOS asi como tambien la recopilaci\u0000n de informaci\u0000n, ajustes en la configuraci\u0000n y administraci\u0000n del enrutador. La API sigue una sintaxis facil de emplear. Se puede usar para crear herramientas de configuraci\u0000n traducidas o personalizadas para facilitar el uso de la ejecuci\u0000n y la administraci\u0000n de enrutadores con RouterOS.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Reynaldo Hernandez Hernandez",
+            "email": "hreynaldoh@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
